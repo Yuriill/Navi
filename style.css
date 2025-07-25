@@ -79,7 +79,7 @@ header img{
     display: flex;
     justify-content: center;
 }
-article img{
+.b{
     margin: 30px;
     width: 500px;
     height: 250px;
