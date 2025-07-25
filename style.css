@@ -79,8 +79,33 @@ header img{
     display: flex;
     justify-content: center;
 }
-.b{
+.b {
     margin: 30px;
     width: 500px;
     height: 250px;
+   
+}
+.c{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    
+}
+footer img{
+    margin: 10px;
+    
+    
+}
+.f{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+
+    
+
+}
+.p{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
 }
