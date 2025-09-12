@@ -43,7 +43,7 @@ p {
 }
 
 .info {
-   background-image:linear-gradient(to bottom ,darkblue , yellow ) ;
+   background-image:linear-gradient(to bottom ,darkblue ,rgba(255, 255, 0, 0.786) ) ;
 }
 
 article {
