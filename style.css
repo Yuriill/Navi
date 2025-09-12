@@ -52,8 +52,9 @@ article {
     align-items: center;
 }
 
-.article-but {
-    
+article p {
+    box-shadow: 2px 5px 0 0 yellow ;
+    z-index: 1;
 }
 
 footer {
