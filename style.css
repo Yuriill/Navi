@@ -19,10 +19,7 @@ nav {
     display: flex;
     justify-content: center;
      position: fixed;
-    left: 760px;
-    
-    
-    
+     left: 760px; 
 }
 
 .nav-link {
