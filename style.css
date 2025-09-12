@@ -18,6 +18,8 @@ header {
 nav {
     display: flex;
     justify-content: center;
+     position: fixed;
+    left: 640px;
     
     
     
